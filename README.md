@@ -1,4 +1,4 @@
 # Technicaltest
-Teste técnico
 
-Teste Técnico feito em Python
+
+Resolução do Teste Técnico feito em Python
